@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Igwe23
+- 👀 I’m interested in Visual graphics with c
+- 🌱 I’m currently learning visual graphics with c
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+- Department: Computer Science
+- level: HND1
+- REGISTRATION NUMBER: 2023/HND/36529/CS
